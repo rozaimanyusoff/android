@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idEdtUserName" type="id" />
+    <item name="idEdtPassword" type="id" />
+    <item name="idPBLoading" type="id" />
+    <item name="idEdtConfirmPassword" type="id" />
+    <item name="idTVLoginUser" type="id" />
+    <item name="idBtnRegister" type="id" />
+    <item name="idTILUserName" type="id" />
+    <item name="idTILPassword" type="id" />
+    <item name="idTILConfirmPassword" type="id" />
+    <item name="idBtnLogin" type="id" />
+    <item name="idTVNewUser" type="id" />
+    <item name="idTVCourseName" type="id" />
+    <item name="idTVCourseDesc" type="id" />
+    <item name="idTVSuitedFor" type="id" />
+    <item name="idTVCoursePrice" type="id" />
+    <item name="idBtnVIewDetails" type="id" />
+    <item name="idBtnEditCourse" type="id" />
+    <item name="idRLBSheet" type="id" />
+</resources>

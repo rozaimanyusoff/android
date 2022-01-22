@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--specifying item for displaying option-->
+    <item
+        android:id="@+id/idProfile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/buttonLogout"
+        android:icon="@drawable/ic_logout"
+        android:title="Log Out" />
+</menu>

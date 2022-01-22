@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PHP Backend</string>
+    <string name="enter_user_name">Enter username</string>
+    <string name="enter_your_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_here">New User ? Register Here</string>
+    <string name="enter_your_email">Enter email address</string>
+    <string name="enter_your_fullname">Enter fullname</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login_here">Already registered? Login Here</string>
+    <string name="id">ID</string>
+    <string name="change_password">Change Password</string>
+    <string name="edit_profile">Update Profile</string>
+    <string name="old_password">Old password</string>
+</resources>
